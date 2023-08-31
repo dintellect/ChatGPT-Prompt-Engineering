@@ -1,6 +1,12 @@
 # ChatGPT Prompt Engineering For Developers
 Guide to ChatGPT Prompt Engineering for Developers, Inspired by Deeplearning.ai
 
+<div>
+	<img src="https://github.com/dintellect/ChatGPT-Prompt_Engineering/blob/main/prompt_engineering_visual.png">
+</div>
+
+---
+
 ## What is a prompt?
 A prompt is text or symbols used to represent the system's readiness to perform the next command. In the context of large language models (LLMs) or large models (LMs), a prompt refers to the starting point for generating text or other outputs. A prompt can be as simple as a sentence or a single word, or it can be a longer piece of text or a specific set of instructions. It serves as an instruction or query that helps guide the model's output. 
 
@@ -54,8 +60,11 @@ The code demonstrates the use of prompts to illustrate principles and strategies
 - Text transformation (e.g., translation, spelling and grammar correction)
 - Expansion (e.g., automated email composition)
 
+**[Jupyter Notebook Link](https://github.com/dintellect/ChatGPT-Prompt_Engineering/blob/main/prompt_engineering.ipynb)**
+
 ## Other Resources
 
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [Learn Prompting](https://learnprompting.org/docs/intro)
+- [Cohere](https://docs.cohere.com/docs/prompt-engineering)
